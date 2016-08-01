@@ -3,5 +3,5 @@
 
 int main(){
     print_hello();
-    return 0;
+    return 1;
 }
